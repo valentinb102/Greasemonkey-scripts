@@ -6,4 +6,4 @@ https://github.com/valentinb102/Greasemonkey-scripts/releases/download/farkingre
 
 Goes great with my fark user style - https://userstyles.org/styles/110375/fark-com-adblocked-and-cleaned
 
-inoreader.com - Remove ads - 
+inoreader.com - Remove ads - https://github.com/valentinb102/Greasemonkey-scripts/releases/download/inoreader/Inoreader_Remove_ADs.user.js
